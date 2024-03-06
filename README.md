@@ -41,7 +41,8 @@ while True:
 
 ![Screenshot 2024-03-06 201432](https://github.com/Roopsagar23001830/2b_SLIDING_WINDOW_PROTOCOL/assets/145972515/d9a92eee-e508-491a-912c-fdd1f87f182b)
 
-![Screenshot 2024-03-06 200801](https://github.com/Roopsagar23001830/2b_SLIDING_WINDOW_PROTOCOL/assets/145972515/687d5a75-d8d2-4c90-88b6-5ac5386c8feb)
+
+![Screenshot 2024-03-06 201442](https://github.com/Roopsagar23001830/2b_SLIDING_WINDOW_PROTOCOL/assets/145972515/5281d775-db11-4e1d-a004-6abf3ddec341)
 
 
 

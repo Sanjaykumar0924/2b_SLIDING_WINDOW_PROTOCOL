@@ -39,10 +39,7 @@ while True:
 ```
 ## OUTPUT
 
-![Screenshot 2024-03-06 201432](https://github.com/Roopsagar23001830/2b_SLIDING_WINDOW_PROTOCOL/assets/145972515/d9a92eee-e508-491a-912c-fdd1f87f182b)
-
-
-![Screenshot 2024-03-06 201442](https://github.com/Roopsagar23001830/2b_SLIDING_WINDOW_PROTOCOL/assets/145972515/5281d775-db11-4e1d-a004-6abf3ddec341)
+![2bss](https://github.com/user-attachments/assets/1d0164ee-3df9-4b80-9654-e01bc7c7760a)
 
 
 
